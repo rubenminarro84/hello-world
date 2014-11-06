@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-my first app
+ok ya termine de escribir el puto README
